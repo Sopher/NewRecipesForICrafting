@@ -1,0 +1,10 @@
+on script load:
+	register new shaped recipe for diamond ore using emerald block, emerald block, emerald block, emerald block, coal block, emerald block, emerald block, lava bucket, emerald block
+	register new shaped recipe for sand using air, stone, air, furnace, air, air, air, coal, air
+	register new shaped recipe for 12:1 using sand, sand, sand, sand, red dye, sand, sand, sand, sand
+	register new shaped recipe for mossy cobblestone using cobblestone, cobblestone, cobblestone, cobblestone, vines, cobblestone, cobblestone, cobblestone, cobblestone
+	register new shaped recipe for mossy stone brick using air, air, air, air, vines, air, stone brick, stone brick, stone brick
+	register new shaped recipe for cracked stone brick using air, air, air, stone brick, stone brick, air, stone brick, stone brick, air
+	register new shaped recipe for 174 using air, air, air, ice, ice, air, ice, ice, air
+	register new shaped recipe for clay block using air, air, air, air, air, air, sand, seeds, sand
+	register new shaped recipe for decorated stone brick using stone brick, stone brick, stone brick, stone brick, air, stone brick, stone brick, stone brick, stone brick
